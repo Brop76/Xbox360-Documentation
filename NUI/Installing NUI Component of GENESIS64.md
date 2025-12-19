@@ -12,31 +12,17 @@ To install the NUI Component of GENESIS64, insert the GENESIS64 installation DVD
 
 Select 'Custom' from the Setup Type Window
 
-
-
-
-
 ![custom](https://github.com/user-attachments/assets/6ba613bd-c164-4747-9890-c05d8403d66a)
 
 &nbsp;
 
-
-
 You will then see the Select Features screen, which allows you to install additional components. Expand the Client node and select Kinect Runtime by clicking on the checkbox to the left of it.
-
-
 
 &nbsp;
 
-
-
 Select 'Kinect Runtime' from the Select Features Window
 
-
-
-
-
-!\[Alt text](NUI/images/kinect-runtime.jpg) 
+![kinect-runtime](https://github.com/user-attachments/assets/e51b594e-c7eb-424d-a1a6-35c299828cfd)
 
 &nbsp;
 
@@ -52,11 +38,7 @@ If this is the only item you selected, you'll see the Kinect for Windows Runtime
 
 Kinect for Windows Runtime Setup Window
 
-
-
-
-
-!\[Alt text](NUI/images/windows-runtime.jpg)
+![windows-runtime](https://github.com/user-attachments/assets/3dcfd9c3-e416-4219-b8fb-84bf48398929)
 
 &nbsp;
 
@@ -70,11 +52,7 @@ The necessary components will be installed on your system. When this installatio
 
 Setup Complete
 
-
-
-!\[Alt text](NUI/images/complete.jpg)
-
-
+![complete](https://github.com/user-attachments/assets/88b6b407-9463-4157-a2b4-d0e79bad4bde)
 
 Initializing
 
@@ -88,11 +66,7 @@ In the Preferences section of the main GraphWorX64 window, select Runtime Option
 
 Selecting Runtime Options within the Preferences Section of GraphWorX64
 
-
-
-!\[Alt text](NUI/images/GWX-preferences-runtime-options.png)
-
-
+<img width="444" height="380" alt="GWX-preferences-runtime-options" src="https://github.com/user-attachments/assets/5ab28cf6-3d1f-480b-a04b-82935adc4051" />
 
 Next, click on the pulldown menu next to 'EnableNUIFeature' in the NUI Device section of the Preferences.
 
@@ -100,9 +74,7 @@ Next, click on the pulldown menu next to 'EnableNUIFeature' in the NUI Device se
 
 Enabling the NUI Feature
 
-
-
-!\[Alt text](NUI/images/GWX-enable-NUI-feature-true.png)
+<img width="441" height="74" alt="GWX-enable-NUI-feature-true" src="https://github.com/user-attachments/assets/4d7ed5ba-d24b-423a-9a32-e9b5c7f322f9" />
 
 &nbsp;
 
@@ -112,9 +84,4 @@ This will enable the Natural UI section of the GraphWorX64 ribbon, as shown belo
 
 Natural UI Section of the Ribbon
 
-
-
-!\[Alt text](NUI/images/GWX-natural-ui-section.png)
-
-
-
+<img width="227" height="101" alt="GWX-natural-ui-section" src="https://github.com/user-attachments/assets/bd2dda98-ca99-441c-bd93-9c0e70df2515" />
