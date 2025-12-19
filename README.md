@@ -1,2 +1,4 @@
 # Xbox360-Documentation
-This is a repository for all the xbox360 documentation
+This is a repository for all documentation for the xbox360 like libaries and general info and even technicalinfo.
+
+this is a WIP so more documentation will be added over time.
