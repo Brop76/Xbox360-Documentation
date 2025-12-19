@@ -16,7 +16,7 @@ Select 'Custom' from the Setup Type Window
 
 
 
-!\[Alt text](NUI/images/custom.jpg)
+![custom](https://github.com/user-attachments/assets/6ba613bd-c164-4747-9890-c05d8403d66a)
 
 &nbsp;
 
