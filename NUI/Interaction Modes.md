@@ -20,7 +20,7 @@ Calibrating the NUI Device
 
 Interacting with the NUI Device in Runtime
 
-Skeletal
+[Skeletal](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Skeletal.md)
 
 Multi-Touch
 
