@@ -1,4 +1,5 @@
 Configuring NUI Device
+======================
 Skeletal Tracking Setup
 1.5 m far away from the screen
 
