@@ -86,6 +86,7 @@ This will enable the Natural UI section of the GraphWorX64 ribbon, as shown belo
 <img width="227" height="101" alt="GWX-natural-ui-section" src="https://github.com/user-attachments/assets/bd2dda98-ca99-441c-bd93-9c0e70df2515" />
 
 See Also:
+
 [Introduction to NUI](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Introduction%20to%20NUI.md)
 
 Configuring the NUI Device
