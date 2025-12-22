@@ -88,8 +88,8 @@ This will enable the Natural UI section of the GraphWorX64 ribbon, as shown belo
 See Also:
 
 [Introduction to NUI](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Introduction%20to%20NUI.md)
-
-Configuring the NUI Device
+[
+Configuring the NUI Device](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Configuring%20NUI%20Device.md)
 
 [Natural UI Section](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Natural%20UI%20Section%20of%20the%20Ribbon.md)
 
@@ -101,7 +101,7 @@ Calibrating the NUI Device
 
 Interacting with the NUI Device in Runtime
 
-Skeletal
+[Skeletal](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Skeletal.md)
 
 Multi-Touch
 

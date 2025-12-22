@@ -1,4 +1,6 @@
 Interaction Modes
+=================
+
 The Mode Tab allows the user to select between Skeletal Tracking mode and Virtual Multi-touch mode.
 
 Skeletal Tracking Mode - Skeletal Tracking Mode is the natural NUI mode for the Kinect system. Skeletal Tracking Mode translates motions into commands and allows the user to carry out all Runtime functions at a distance. In addition, skeletal tracking mode does not require screen calibration and also has access to the voice command features.
@@ -20,7 +22,7 @@ Calibrating the NUI Device
 
 Interacting with the NUI Device in Runtime
 
-Skeletal
+[Skeletal](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Skeletal.md)
 
 Multi-Touch
 
