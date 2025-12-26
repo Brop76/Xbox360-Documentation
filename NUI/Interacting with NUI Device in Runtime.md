@@ -24,6 +24,5 @@ for some reason this page was blank on the [original source](https://docs.iconic
 
 [Multi-Touch](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Multi-Touch.md)
 
-NUI Support for Multiple Window Scenarios
-
+[NUI Support for Multiple Window Scenarios](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/NUI%20Support%20for%20Multiple%20Window%20Scenarios.md)
  
