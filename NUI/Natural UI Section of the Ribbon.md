@@ -8,7 +8,7 @@ Natural UI Section of  the Ribbon
 
 ![NUI](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/images/GWX-natural-ui-section.png)
 
-<ul>
+
 
 <li>Mode - Selecting [Mode](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/mode.md) will open a drop-down menu which allows the user to select between [Skeletal Tracking](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Skeletal.md) mode and Virtual Multi-touch mode.</li>
 
@@ -18,7 +18,7 @@ Natural UI Section of  the Ribbon
 
 <li>Start/Stop - Selecting Activate will initiate NUI in the currently active mode. The semaphore indicates the actual state of the NUI sensor. When it’s red, the sensor is not initialized or 'stopped'. When it’s yellow, the sensor is in the process of being initialized or currently is not initialized. When it’s green, the sensor has been successfully initialized and the device is ready to be used for natural interactions.</li>
 
-</ul>
+
 
 **See Also**:
 
@@ -30,14 +30,14 @@ Natural UI Section of  the Ribbon
 
 [Interaction Modes](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Interaction%20Modes.md)
 
-Natural User Interface Settings
+[Natural User Interface Settings](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Natural%20User%20Interface%20Settings.md)
 
-Calibrating the NUI Device
+[Calibrating the NUI Device](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Calibrating%20the%20NUI%20Device.md)
 
-Interacting with the NUI Device in Runtime
+[Interacting with the NUI Device in Runtime](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Interacting%20with%20NUI%20Device%20in%20Runtime.md)
 
 [Skeletal](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Skeletal.md)
 
-Multi-Touch
+[Multi-Touch](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Multi-Touch.md)
 
-NUI Support for Multiple Window Scenarios
+[NUI Support for Multiple Window Scenarios](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/NUI%20Support%20for%20Multiple%20Window%20Scenarios.md)
