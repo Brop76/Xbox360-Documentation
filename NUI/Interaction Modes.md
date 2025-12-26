@@ -16,14 +16,14 @@ See Also:
 
 [Natural UI Section](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Natural%20UI%20Section%20of%20the%20Ribbon.md)
 
-Natural User Interface Settings
+[Natural User Interface Settings](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Natural%20User%20Interface%20Settings.md)
 
-Calibrating the NUI Device
+[Calibrating the NUI Device](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Calibrating%20the%20NUI%20Device.md)
 
-Interacting with the NUI Device in Runtime
+[Interacting with the NUI Device in Runtime](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Interacting%20with%20NUI%20Device%20in%20Runtime.md)
 
 [Skeletal](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Skeletal.md)
 
-Multi-Touch
+[Multi-Touch](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Multi-Touch.md)
 
-NUI Support for Multiple Window Scenarios
+[NUI Support for Multiple Window Scenarios](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/NUI%20Support%20for%20Multiple%20Window%20Scenarios.md)
