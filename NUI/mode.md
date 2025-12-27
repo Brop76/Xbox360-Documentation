@@ -3,13 +3,11 @@ Interaction Modes
 
 The Mode Tab allows the user to select between **Skeletal Tracking** mode and **Virtual Multi-touch** mode.
 
-<ul>
   
 <li>Skeletal Tracking Mode - [Skeletal Tracking Mode](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Skeletal.md) is the natural NUI mode for the Kinect system. Skeletal Tracking Mode translates motions into commands and allows the user to carry out all Runtime functions at a distance. In addition, skeletal tracking mode does not require screen calibration and also has access to the voice command features.</li>
 
 <li>Virtual Multi-touch Mode - Virtual Multi-touch Mode is similar to a standard touch screen. Rather than making contact with a touch screen, Virtual Multi-touch allows the user to use movements and motions that do not require touching a screen. Virtual Multi-touch also allows the user to transform any surface into a virtual touch screen.</li>
 
-</ul>
 
 **See Also**:
 
@@ -21,14 +19,14 @@ The Mode Tab allows the user to select between **Skeletal Tracking** mode and **
 
 [Natural UI Section](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Natural%20UI%20Section%20of%20the%20Ribbon.md)
 
-Natural User Interface Settings
+[Natural User Interface Settings](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Natural%20User%20Interface%20Settings.md)
 
-Calibrating the NUI Device
+[Calibrating the NUI Device](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Calibrating%20the%20NUI%20Device.md)
 
-Interacting with the NUI Device in Runtime
+[Interacting with the NUI Device in Runtime](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Interacting%20with%20NUI%20Device%20in%20Runtime.md)
 
 [Skeletal](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Skeletal.md)
 
-Multi-Touch
+[Multi-Touch](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/Multi-Touch.md)
 
-NUI Support for Multiple Window Scenarios
+[NUI Support for Multiple Window Scenarios](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/NUI%20Support%20for%20Multiple%20Window%20Scenarios.md)
