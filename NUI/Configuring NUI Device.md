@@ -8,7 +8,7 @@ Skeletal Tracking Setup
 
 **Skeletal Tracking Setup**
 
-<img width="317" height="276" alt="SkeletalTrackingSetup" src="https://github.com/user-attachments/assets/d799efa9-7645-4fce-8b1a-4b2e6751647e" />
+![STS](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/images/SkeletalTrackingSetup.png)
 
 Skeletal Tracking - Physical Interaction Zone
 
@@ -18,7 +18,7 @@ Skeletal Tracking - Physical Interaction Zone
 
 **Physical Interaction Zone**
 
-<img width="504" height="292" alt="PhysicalInteractionZone" src="https://github.com/user-attachments/assets/e60ffbe2-5b7d-41c6-9e41-9a22b4998fbd" />
+![PIZ](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/images/PhysicalInteractionZone.png)
 
 Virtual Multi-touch Setup
 
@@ -27,7 +27,8 @@ Virtual Multi-touch Setup
 
 **Virtual Multi-touch Setup**
 
-<img width="340" height="282" alt="MultiSetup" src="https://github.com/user-attachments/assets/5740fb95-c66e-4a0e-8e69-8f9031cc4f7b" />
+![VMTS](https://github.com/Brop76/Xbox360-Documentation/blob/main/NUI/images/MultiSetup.png)
+ 
 
 Virtual Multi-touch Calibration
 
